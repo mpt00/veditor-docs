@@ -5,7 +5,7 @@ title: Kebijakan Privasi VEDITOR
 # Kebijakan Privasi — VEDITOR
 
 **Berlaku sejak:** 8 Oktober 2026
-**Aplikasi:** VEDITOR (`id.forge.veditor`) untuk Android
+**Aplikasi:** VEDITOR (`id.my.veditor`) untuk Android
 **Pengembang:** Hadi — Indonesia
 **Kontak:** alhadi.uc@gmail.com
 
